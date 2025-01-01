@@ -1,4 +1,4 @@
-## Hi there 👋
+The goal of this organization is to regroup disassemblies of the [Atari TOS operating system](https://en.wikipedia.org/wiki/Atari_TOS), and some user programs.
 
 <!--
 
